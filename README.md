@@ -1,3 +1,3 @@
 # bateria
 sons de bateria
-https://thiagoloiro.github.io/bateria/
+https://thiago-rocha-aquino.github.io/bateria/
